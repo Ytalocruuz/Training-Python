@@ -17,3 +17,7 @@ nome = "Teste2"
 
 print(NOME, nome)
 
+cidade = input ("Qual sua cidade: ")
+Empresa = input ("Qual sua empresa: ")
+Gostar = input("Curtte chocolate: ")
+print(cidade, Empresa, Gostar)
