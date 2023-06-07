@@ -3,7 +3,7 @@ precoOriginal = float(input("Digite o valor do produto: "))
 
 precoComDesconto = precoOriginal - (precoOriginal  * 5 / 100) 
 
-print("O valor com desconto: {}".format(precoComDesconto))
+print("O valor com desconto: R${}".format(precoComDesconto))
 
 
 

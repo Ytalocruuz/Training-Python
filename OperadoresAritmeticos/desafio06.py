@@ -3,6 +3,9 @@
 n1 = int(input('Digite um n´mero: '))
 d = n1 * 2 
 t = n1 * 3
+r = n1 ** (1/2)
 print("Numero digitado: {}".format(n1))
 print('Seu dobro: {}'.format(n1 * 2))
 print('Seu triplo {}'.format(t))
+print('Raiz quadrada: {:.2f}'.format(r))
+ 
